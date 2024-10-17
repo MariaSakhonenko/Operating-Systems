@@ -1,7 +1,8 @@
-# Exercise 1 ОS
-## Made by Nikita Kasinski
+# Operating-Systems
+# Exercise 1 OS
+## Made by Maria Sakhonenko
 ### Overview
-The app comprises main process and two utility processes: reporter and creator. Creator creates binary file with employee data, reporter reads binary file data and produces text report file with employee data plus their payment info
+The app comprises main process and two utility processes: reporter and creator. Creator creates binary file with employee data, reporter reads binary file data and produces text report file with employee data plus their payment info.
 ### Tools
 * gcc - compiler
 * make - build automation tool
@@ -12,11 +13,10 @@ CI/CD is made via Github Actions. There are build and test jobs in the workflow 
 ### Manual running, building, testing and testing code coverage
 To perform any listed task several tools and libraries are required:
 * gcc
-* make 
+* make
 * gtest (when testing code and code coverage)
 * gcov (when testing code coverage)
 * lcov (when testing code coverage)
-
 Prepared targets:
 * make run - launching the app
 * make build - building the app
