@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercise 2 ОS
 ## Made by Maria Sakhonenko
 ### Overview
@@ -23,3 +24,6 @@ Prepared targets:
 * make test - running tests
 * make report - testing code coverage
 
+=======
+# Operating-Systems
+>>>>>>> 37884bdb80a16aebad32c921a9ce8ea5cf9b5ccb
