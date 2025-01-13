@@ -1,7 +1,3 @@
-//
-// Created by Nikita Kasinski
-//
-
 #include <cstring>
 #include "employee.h"
 
