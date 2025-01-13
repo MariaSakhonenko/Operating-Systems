@@ -1,7 +1,3 @@
-//
-// created by Nikita Kasinski
-//
-
 #pragma once
 
 #include <windows.h>
