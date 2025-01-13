@@ -1,7 +1,3 @@
-//
-// Created by Nikita Kasinski
-//
-
 #pragma once
 
 #include "menu/server_menu.h"
