@@ -1,4 +1,3 @@
-//author: Nikita Kasinski
 #include <windows.h>
 #include <iostream>
 #include <random>
