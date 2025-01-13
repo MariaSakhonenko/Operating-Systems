@@ -1,7 +1,3 @@
-//
-// Created by Nikita Kasinski
-//
-
 #include <iostream>
 #include <windows.h>
 #include <sstream>
