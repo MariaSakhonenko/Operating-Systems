@@ -1,7 +1,3 @@
-//
-// Created by Nikita Kasinski
-//
-
 #include "controller.h"
 #include "utility.h"
 
