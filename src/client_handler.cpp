@@ -1,7 +1,3 @@
-//
-// Created by Nikita Kasinski
-//
-
 #include <string>
 #include <iostream>
 #include "client_handler.h"
