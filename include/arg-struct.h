@@ -1,4 +1,3 @@
-// author: Nikita Kasinski
 #pragma once
 #include <windows.h>
 
