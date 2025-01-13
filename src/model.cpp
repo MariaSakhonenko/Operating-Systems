@@ -1,7 +1,3 @@
-//
-// Created by Nikita Kasinski
-//
-
 #include "model.h"
 
 Model::Model(const std::string &binaryFileName)
