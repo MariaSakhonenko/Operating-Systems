@@ -1,7 +1,3 @@
-//
-// Created by Nikita Kasinski
-//
-
 #include <set>
 #include <iomanip>
 #include "utility.h"
