@@ -1,5 +1,4 @@
 #pragma once
-// author: Nikita Kasinski
 
 struct MarkerArgs
 {
