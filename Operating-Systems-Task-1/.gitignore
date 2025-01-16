@@ -1,0 +1,7 @@
+bin/*
+cov/*
+obj/*
+.vscode
+*.txt
+binfile
+
